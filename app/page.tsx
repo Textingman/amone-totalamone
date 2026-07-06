@@ -17,11 +17,11 @@ export default function HomePage() {
               Total Amone
             </div>
             <h1 className="text-5xl font-extrabold sm:text-6xl md:text-7xl" style={{ color: '#1F2937' }}>
-              Never Lose a Lead Again
+              Never Lose a Sale Again
               <span className="block" style={{ color: '#1D4ED8' }}>AI Follow-Up That Closes</span>
             </h1>
             <p className="mt-6 max-w-2xl mx-auto text-xl" style={{ color: '#6B7280' }}>
-              Total Amone uses AI to automatically follow up with every lead, resolve inquiries instantly, and convert more prospects — without lifting a finger.
+              Total Amone uses AI to automatically follow up with every sale, resolve inquiries instantly, and convert more prospects — without lifting a finger.
             </p>
             <div className="mt-10 flex justify-center gap-4 flex-wrap">
               <Link href="/signup" className="px-8 py-4 text-white text-lg font-semibold rounded-lg shadow-lg transition-opacity hover:opacity-90" style={{ backgroundColor: '#1D4ED8' }}>
@@ -40,7 +40,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold" style={{ color: '#1F2937' }}>Why Choose Total Amone</h2>
-            <p className="mt-4 text-xl" style={{ color: '#6B7280' }}>AI-powered lead follow-up and resolution — automatically.</p>
+            <p className="mt-4 text-xl" style={{ color: '#6B7280' }}>AI-powered sale follow-up and resolution — automatically.</p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-white p-8 rounded-xl shadow-md hover:shadow-xl transition-shadow border" style={{ borderColor: '#1D4ED833' }}>
