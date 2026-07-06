@@ -34,7 +34,7 @@ export default function SignupPage() {
       <section className="py-12" style={{ backgroundColor: '#F5F7FA' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl font-extrabold mb-4" style={{ color: '#1F2937' }}>
-            Let AI Handle Your Lead Follow-Up
+            Let AI Handle Your Sale Follow-Up
           </h1>
           <p className="text-xl max-w-2xl mx-auto" style={{ color: '#6B7280' }}>
             Get started in minutes. Our AI agent follows up, answers questions, and resolves leads automatically — 24/7.
