@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Total Amone - AI-Powered Lead Follow-Up & Resolution",
-  description: "Total Amone automates lead follow-up and resolution with AI. Never miss a prospect again — respond instantly, resolve faster, close more.",
+  title: "Total Amone - AI-Powered Sale Follow-Up & Resolution",
+  description: "Total Amone automates sale follow-up and resolution with AI. Never miss a prospect again — respond instantly, resolve faster, close more.",
 };
 
 export default function RootLayout({
